@@ -8,7 +8,7 @@
 
 ## 💼 About Me  
 
-- 🚀 Founder of **Rimecode** - A Web & Mobile Development Agency  
+- 🚀 Founder of **[Rimecode](https://rimecode.vercel.app/)** - A Web & Mobile Development Agency  
 - 💻 Full Stack Developer specializing in modern web technologies  
 - 📚 Currently pursuing Master's in Electronics at Faculté des Sciences de Bizerte  
 - 🌱 Learning **React Native** and **MongoDB** for mobile development  
@@ -106,7 +106,6 @@
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>  
   </a>  
 </p>  
-
 
 <div align="center">  
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmed-abdat&theme=tokyonight&hide_border=true&layout=compact" />  
