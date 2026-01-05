@@ -126,19 +126,19 @@
 
 <div align="center">
 
-<a href="https://quran-mr-ten.vercel.app/quran">
+<a href="https://quran-mr-ten.vercel.app/quran" target="_blank">
   <img align="center" src="https://github-readme-stats-salesp07.vercel.app/api/pin/?username=ahmed-abdat&repo=quran-mr&theme=tokyonight&hide_border=true&description_lines_count=2" />
 </a>
 
-<a href="https://libretier.vercel.app">
+<a href="https://libretier.vercel.app" target="_blank">
   <img align="center" src="https://github-readme-stats-salesp07.vercel.app/api/pin/?username=ahmed-abdat&repo=LibreTier&theme=tokyonight&hide_border=true&description_lines_count=2" />
 </a>
 
-<a href="https://whatesapp.vercel.app">
+<a href="https://whatesapp.vercel.app" target="_blank">
   <img align="center" src="https://github-readme-stats-salesp07.vercel.app/api/pin/?username=ahmed-abdat&repo=whatesapp-clone&theme=tokyonight&hide_border=true&description_lines_count=2" />
 </a>
 
-<a href="https://main-chalange-nuit-de-linfo-2025.vercel.app">
+<a href="https://main-chalange-nuit-de-linfo-2025.vercel.app" target="_blank">
   <img align="center" src="https://github-readme-stats-salesp07.vercel.app/api/pin/?username=ahmed-abdat&repo=main_chalange_nuit_de_linfo_2025&theme=tokyonight&hide_border=true&description_lines_count=2" />
 </a>
 
