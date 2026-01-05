@@ -126,26 +126,26 @@
 
 <div align="center">
 
-<a href="https://github.com/ahmed-abdat/quran-mr">
+<a href="https://quran-mr-ten.vercel.app/quran">
   <img align="center" src="https://github-readme-stats-salesp07.vercel.app/api/pin/?username=ahmed-abdat&repo=quran-mr&theme=tokyonight&hide_border=true&description_lines_count=2" />
 </a>
 
-<a href="https://github.com/ahmed-abdat/LibreTier">
+<a href="https://libretier.vercel.app">
   <img align="center" src="https://github-readme-stats-salesp07.vercel.app/api/pin/?username=ahmed-abdat&repo=LibreTier&theme=tokyonight&hide_border=true&description_lines_count=2" />
 </a>
 
-<a href="https://github.com/ahmed-abdat/whatesapp-clone">
+<a href="https://whatesapp.vercel.app">
   <img align="center" src="https://github-readme-stats-salesp07.vercel.app/api/pin/?username=ahmed-abdat&repo=whatesapp-clone&theme=tokyonight&hide_border=true&description_lines_count=2" />
 </a>
 
-<a href="https://github.com/ahmed-abdat/main_chalange_nuit_de_linfo_2025">
+<a href="https://main-chalange-nuit-de-linfo-2025.vercel.app">
   <img align="center" src="https://github-readme-stats-salesp07.vercel.app/api/pin/?username=ahmed-abdat&repo=main_chalange_nuit_de_linfo_2025&theme=tokyonight&hide_border=true&description_lines_count=2" />
 </a>
 
 </div>
 
 ### 🔗 Live Demos
-- **[Quran MR](https://quran-mr-ten.vercel.app)** - Production Quran web app (13⭐)
+- **[Quran MR](https://quran-mr-ten.vercel.app/quran)** - Production Quran web app (13⭐)
 - **[LibreTier](https://libretier.vercel.app)** - Free privacy-first tier list maker with PWA
 - **[WhatsApp Clone](https://whatesapp.vercel.app)** - Real-time messaging app (7⭐)
 - **[Village NIRD](https://main-chalange-nuit-de-linfo-2025.vercel.app)** - Interactive hackathon project with 5 games
