@@ -154,10 +154,16 @@
   <a href="https://github.com/better-auth/better-auth">
     <img src="https://img.shields.io/badge/Better_Auth-161616?style=for-the-badge&logoColor=white" alt="Better Auth"/>
   </a>
+  <a href="https://github.com/sidiDev/next-to-tanstack">
+    <img src="https://img.shields.io/badge/next--to--tanstack-000000?style=for-the-badge&logo=react&logoColor=white" alt="next-to-tanstack"/>
+  </a>
+  <a href="https://github.com/aziz0x00/chat.sh">
+    <img src="https://img.shields.io/badge/chat.sh-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="chat.sh"/>
+  </a>
 </div>
 
 <p align="center">
-  <i>Contributing to modern TypeScript frameworks and authentication solutions</i>
+  <i>Contributing to modern TypeScript frameworks, authentication, CLI tools, and developer utilities</i>
 </p>
 
 ## 🌟 Featured Projects
