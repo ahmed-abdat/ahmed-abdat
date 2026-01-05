@@ -111,7 +111,7 @@
 
 <div align="center">
   <a href="https://github.com/payloadcms/payload">
-    <img src="https://img.shields.io/badge/Payload_CMS-000000?style=for-the-badge&logo=payload&logoColor=white" alt="Payload CMS"/>
+    <img src="https://img.shields.io/badge/Payload_CMS-000000?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMjU2IDI1NiIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB3aWR0aD0iMjU2IiBoZWlnaHQ9IjI1NiIgZmlsbD0ibm9uZSI+PHBhdGggZmlsbD0iI0ZGRiIgZD0ibTEyNi42NzUgMjE2LjM3NS03NC41LTQzYTMuMDIzIDMuMDIzIDAgMCAxLTEuNS0yLjZ2LTY2LjRjMC0xLjE1IDEuMjUtMS44NzUgMi4yNS0xLjNsODYuNSA0OS45NWMxLjIuNyAyLjcyNS0uMTc1IDIuNzI1LTEuNTc1di0zMi40YzAtMS4zLS43LTIuNDc1LTEuOC0zLjEyNUwzNi4yNSA1NS44YTIuOTggMi45OCAwIDAgMC0zLjAyNSAwTDE5LjYgNjMuNjc1YTMuMDIzIDMuMDIzIDAgMCAwLTEuNSAyLjZWMTg5LjdjMCAxLjA3NS41NzUgMi4wNzUgMS41IDIuNkwxMjYuNDc1IDI1NGEyLjk4IDIuOTggMCAwIDAgMy4wMjUgMGw4OS43NS01MS44MjVjMS4yLS43IDEuMi0yLjQyNSAwLTMuMTI1bC0yOC0xNi4xNzVhMy42MTMgMy42MTMgMCAwIDAtMy42MjUgMGwtNTcuOTUgMzMuNDVhMi45OCAyLjk4IDAgMCAxLTMuMDI1IDBsLjAyNS4wNVpNMjM2LjQgNjMuNjc1bC0xMDYuOS02MS43YTIuOTggMi45OCAwIDAgMC0zLjAyNSAwTDY5Ljk3NSAzNC42Yy0xLjIuNy0xLjIgMi40MjUgMCAzLjEyNWwyNy43NSAxNi4wMjVjMS4xMjUuNjUgMi41LjY1IDMuNjI1IDBsMjUuMy0xNC42YTIuOTggMi45OCAwIDAgMSAzLjAyNSAwbDc0LjUgNDNjLjkyNS41NSAxLjUgMS41MjUgMS41IDIuNnY2Ni43NWMwIDEuMy43IDIuNDc1IDEuOCAzLjEyNWwyNy43IDE2YzEuMi43IDIuNzI1LS4xNzUgMi43MjUtMS41NzVWNjYuM2EyLjk5MyAyLjk5MyAwIDAgMC0xLjUtMi42di0uMDI1WiIvPjwvc3ZnPg==" alt="Payload CMS"/>
   </a>
   <a href="https://github.com/better-auth/better-auth">
     <img src="https://img.shields.io/badge/Better_Auth-161616?style=for-the-badge&logoColor=white" alt="Better Auth"/>
